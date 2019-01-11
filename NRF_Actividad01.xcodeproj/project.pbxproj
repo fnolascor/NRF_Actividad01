@@ -14,6 +14,16 @@
 		84AA641A21E3D312001A3D08 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84AA641821E3D312001A3D08 /* LaunchScreen.storyboard */; };
 		84AA642521E3D312001A3D08 /* NRF_Actividad01Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84AA642421E3D312001A3D08 /* NRF_Actividad01Tests.swift */; };
 		84AA643021E3D312001A3D08 /* NRF_Actividad01UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84AA642F21E3D312001A3D08 /* NRF_Actividad01UITests.swift */; };
+		84AA644021E3DE05001A3D08 /* Persona.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84AA643F21E3DE05001A3D08 /* Persona.swift */; };
+		84AA644221E3DF05001A3D08 /* BaseDatos.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84AA644121E3DF05001A3D08 /* BaseDatos.swift */; };
+		84AA644C21E3F7FE001A3D08 /* RecuperaPController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84AA644B21E3F7FE001A3D08 /* RecuperaPController.swift */; };
+		84AA644E21E3F90D001A3D08 /* RegistroUController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84AA644D21E3F90D001A3D08 /* RegistroUController.swift */; };
+		84AA64CE21E647A6001A3D08 /* Constantes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84AA64CD21E647A6001A3D08 /* Constantes.swift */; };
+		84AA64D021E649D6001A3D08 /* Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84AA64CF21E649D6001A3D08 /* Extension.swift */; };
+		84AA64D221E64A6D001A3D08 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84AA64D121E64A6D001A3D08 /* LoginViewController.swift */; };
+		84AA650E21E6869F001A3D08 /* SitioController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84AA650D21E6869F001A3D08 /* SitioController.swift */; };
+		84AA651021E686D9001A3D08 /* MisEmpleadosController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84AA650F21E686D9001A3D08 /* MisEmpleadosController.swift */; };
+		84AA651221E68734001A3D08 /* RutasCobranzaController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84AA651121E68734001A3D08 /* RutasCobranzaController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +57,16 @@
 		84AA642B21E3D312001A3D08 /* NRF_Actividad01UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NRF_Actividad01UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		84AA642F21E3D312001A3D08 /* NRF_Actividad01UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NRF_Actividad01UITests.swift; sourceTree = "<group>"; };
 		84AA643121E3D312001A3D08 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		84AA643F21E3DE05001A3D08 /* Persona.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Persona.swift; sourceTree = "<group>"; };
+		84AA644121E3DF05001A3D08 /* BaseDatos.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseDatos.swift; sourceTree = "<group>"; };
+		84AA644B21E3F7FE001A3D08 /* RecuperaPController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecuperaPController.swift; sourceTree = "<group>"; };
+		84AA644D21E3F90D001A3D08 /* RegistroUController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegistroUController.swift; sourceTree = "<group>"; };
+		84AA64CD21E647A6001A3D08 /* Constantes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constantes.swift; sourceTree = "<group>"; };
+		84AA64CF21E649D6001A3D08 /* Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extension.swift; sourceTree = "<group>"; };
+		84AA64D121E64A6D001A3D08 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
+		84AA650D21E6869F001A3D08 /* SitioController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SitioController.swift; sourceTree = "<group>"; };
+		84AA650F21E686D9001A3D08 /* MisEmpleadosController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MisEmpleadosController.swift; sourceTree = "<group>"; };
+		84AA651121E68734001A3D08 /* RutasCobranzaController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RutasCobranzaController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +123,16 @@
 				84AA641621E3D312001A3D08 /* Assets.xcassets */,
 				84AA641821E3D312001A3D08 /* LaunchScreen.storyboard */,
 				84AA641B21E3D312001A3D08 /* Info.plist */,
+				84AA643F21E3DE05001A3D08 /* Persona.swift */,
+				84AA644121E3DF05001A3D08 /* BaseDatos.swift */,
+				84AA644B21E3F7FE001A3D08 /* RecuperaPController.swift */,
+				84AA644D21E3F90D001A3D08 /* RegistroUController.swift */,
+				84AA64CD21E647A6001A3D08 /* Constantes.swift */,
+				84AA64CF21E649D6001A3D08 /* Extension.swift */,
+				84AA64D121E64A6D001A3D08 /* LoginViewController.swift */,
+				84AA650D21E6869F001A3D08 /* SitioController.swift */,
+				84AA650F21E686D9001A3D08 /* MisEmpleadosController.swift */,
+				84AA651121E68734001A3D08 /* RutasCobranzaController.swift */,
 			);
 			path = NRF_Actividad01;
 			sourceTree = "<group>";
@@ -256,8 +286,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				84AA64D221E64A6D001A3D08 /* LoginViewController.swift in Sources */,
+				84AA644221E3DF05001A3D08 /* BaseDatos.swift in Sources */,
+				84AA644021E3DE05001A3D08 /* Persona.swift in Sources */,
 				84AA641221E3D311001A3D08 /* ViewController.swift in Sources */,
+				84AA651021E686D9001A3D08 /* MisEmpleadosController.swift in Sources */,
+				84AA650E21E6869F001A3D08 /* SitioController.swift in Sources */,
+				84AA644C21E3F7FE001A3D08 /* RecuperaPController.swift in Sources */,
+				84AA651221E68734001A3D08 /* RutasCobranzaController.swift in Sources */,
+				84AA644E21E3F90D001A3D08 /* RegistroUController.swift in Sources */,
+				84AA64CE21E647A6001A3D08 /* Constantes.swift in Sources */,
 				84AA641021E3D311001A3D08 /* AppDelegate.swift in Sources */,
+				84AA64D021E649D6001A3D08 /* Extension.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
